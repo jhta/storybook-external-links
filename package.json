@@ -1,0 +1,21 @@
+{
+  "name": "storybook-external-links",
+  "version": "0.1.0",
+  "description": "Storybook external link loaded after components mounting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "storybook",
+    "external-links",
+    "react",
+    "vue",
+    "load"
+  ],
+  "author": "jeisonhs93@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.9.0"
+  }
+}
